@@ -1,0 +1,11 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$*.py
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Optional: block your local generated file if you only want them to use the script
+# ~$*.xlsx
